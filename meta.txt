@@ -1,0 +1,145 @@
+PANTONE Color of the year
+
+2000:
+Cerulean
+15-4020 TCX
+RGB 155 183 212
+#9bb7d4
+
+2001:
+Fuchsia Rose
+17-2031 TCX
+RGB 199 67 117
+#c74375
+
+2002:
+True Red
+19-1664 TCX
+RGB 191 25 50
+#bf1932
+
+2003:
+Aqua Sky
+14-4811 TCX
+RGB 123 196 196
+#7bc4c4
+
+2004:
+Tigerlily
+17-1456 TCX
+RGB 226 88 62
+#e2583e
+
+2005:
+Blue Turquoise
+15-5217 TCX
+RGB 83 176 174
+#53b0ae
+
+2006:
+Sand Dollar
+13-1106 TCX
+RGB 222 205 190
+#decdbe
+
+2007:
+Chili Pepper
+19-1557 TCX
+RGB 155 27 48
+#9b1b30
+
+2008:
+Blue Iris
+18-3943 TCX
+RGB 90 91 159
+#5a5b9f
+
+2009:
+Mimosa
+14-0848 TCX
+RGB 240 192 90
+#f0c05a
+
+2010:
+Turquoise
+15-5519 TCX
+RGB 69 181 170
+#45b5aa
+
+2011:
+Honeysuckle
+18-2120 TCX
+RGB 217 79 112
+#d94f70
+
+2012:
+Tangerine Tango
+7-1463 TCX
+RGB 221 65 36
+#dd4124
+
+2013:
+Emerald
+17-5641 TCX
+RGB 0 148 115
+#009473
+
+2014:
+Radiant Orchid
+18-3224 TCX
+RGB 173 94 153
+#ad5e99
+
+2015:
+Marsala
+18-1438 TCX
+RGB 150 79 76
+#964f4c
+
+2016 1:
+Serenity
+15-3919 TCX
+RGB 147 169 209
+#93a9d1
+
+2016 2:
+Rose Quartz
+13-1520 TCX
+RGB 247 202 202
+#f7caca
+
+2017:
+Greenery
+15-0343 TCX
+RGB 136 176 75
+#88b04b
+
+2018:
+Ultra Violet
+18-3838 TCX
+RGB 95 75 139
+#5f4b8b
+
+2019:
+Living Coral
+16-1546 TCX
+RGB 255 111 97
+#ff6f61
+
+2020:
+Classic Blue
+19-4052 TCX
+RGB 15 76 129
+#0f4c81
+
+2021 1:
+Ultimate Gray
+17-5105 TCX
+RGB 147 149 151
+#939597
+
+2021 2:
+Illuminating
+13-0647 TCX
+RGB 245 223 77
+#f5df4d
